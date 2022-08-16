@@ -1,1 +1,1 @@
-Este é um projeto fictício para aprendizado!
+Dummy study project using HTML, CSS and Bootstrap.
